@@ -1,6 +1,6 @@
 # Salut, moi c’est Valentin 👋
 
-**Étudiant en cybersécurité à Ynov Rennes** · Réseaux & systèmes · Développement web
+**Étudiant en cybersécurité chez Nexa** · Réseaux & systèmes · Développement web
 
 Je construis mon parcours autour de la cybersécurité, des infrastructures et du développement. Ce GitHub rassemble mes projets personnels et mes travaux d’apprentissage.
 
